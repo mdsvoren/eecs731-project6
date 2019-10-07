@@ -1,25 +1,17 @@
-Project 1
+Project 2
 ==============================
 
-Analysis of weather and house sales in Seattle.
+Classification of Shakespeare Players.
 
 Project Organization
 ------------
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
+    ├── data               <- contains shakespeare csv with all plays
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+    ├── notebooks          <- contains notebook "To be or not to be"
+    │                        
+    │                         
 
 
 --------

@@ -1,15 +1,15 @@
-Project 2
+Project 4
 ==============================
 
-Classification of Shakespeare Players.
+Predicting the score of baseball games
 
 Project Organization
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data               <- contains shakespeare csv with all plays
+    ├── data               <- contains the mlb_elo.csv file which holds relevant data for prediction
     │
-    ├── notebooks          <- contains notebook "To be or not to be"
+    ├── notebooks          <- contains notebook "MLB Predictions - Regression"
     │                        
     │                         
 

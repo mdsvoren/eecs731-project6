@@ -1,15 +1,15 @@
-Project 5
+Project 6
 ==============================
 
-Forecasting demands for products. Dataset includes thousands of products and over a million rows of data.
+Anomaly detection on tweets tagging Google over a three month time-period.
 
 Project Organization
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data               <- contains the Historical_Product_Demand.csv file which holds relevant data for prediction
+    ├── data               <- contains the Twitter_volume_GOOG.csv file which holds a timestamp an tweet number in 5 minute intervals.
     │
-    ├── notebooks          <- contains notebook "Project 5- Forecasting"
+    ├── notebooks          <- contains notebook "Project 6 - Anomaly Detection"
     │                        
     │                         
 
